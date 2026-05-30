@@ -1,4 +1,4 @@
-<img width="1050" height="323" alt="Fermi_Searches_for_Gravitational_Waves_From_Monster_Black_Holes_(SVS14130_-_BH_banner_GIF_2022-03-28_14_46_14) (1)" src="https://github.com/user-attachments/assets/6e475c54-6918-46f5-b35f-2c3faa710096" />
+<img width="1042" height="320" alt="exoplanet-banner-1" src="https://github.com/user-attachments/assets/4d9eb69e-d262-4db7-9848-af31e044c12d" />
 
 
 
@@ -8,3 +8,14 @@ i like learning.
 ### connect
 [![Email](https://img.shields.io/badge/email-banyulangitadyaraka%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:banyulangitadyaraka@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-profile-000000?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+
+### currently learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/assembly-2E4F4F?style=flat-square&logo=assembly&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
