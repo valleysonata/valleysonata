@@ -1,5 +1,4 @@
-<img width="1041" height="320" alt="webb-early-peas-banner" src="https://github.com/user-attachments/assets/0cb25037-7a93-4fa2-9a10-1b47e3dc461e" />
-
+<img width="1050" height="323" alt="NASA&#39;s_Black_Hole_Orrery_(SVS14149_-_Orrery_Banner_mkII)" src="https://github.com/user-attachments/assets/548e600f-4288-450c-86b2-6b32ef180d22" />
 
 
 
@@ -20,4 +19,4 @@ i like learning.
 </p>
 
 ---
-<img width="480" height="270" alt="97816cb12aec6d42ee5f82f69a500dac" src="https://github.com/user-attachments/assets/982dd28e-2e1e-4f5a-8397-420a27818b56" />
+
