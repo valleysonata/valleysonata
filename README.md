@@ -1,11 +1,14 @@
-# void* ptr;
+# low level development.
 
 ![terminal](https://asciistudio.tumblr.com/)
 
-```c
-#include <stdio.h>
+### focus
+- c / assembly
+- linux / bash
+- kernels & graphics
 
-int main() {
-    printf("Systems, low-level development, and C.\n");
-    return 0;
-}
+---
+
+### contact
+- [linkedin](YOUR_LINKEDIN_URL)
+- [email](mailto:yourname@email.com)
