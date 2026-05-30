@@ -1,4 +1,5 @@
-<img width="1042" height="320" alt="BH_AccretionDisk_Sim_Banner_Stationary" src="https://github.com/user-attachments/assets/c6f855fd-4e1b-47f1-be7a-16469db8eaa6" />
+<img width="1050" height="323" alt="Fermi_Searches_for_Gravitational_Waves_From_Monster_Black_Holes_(SVS14130_-_BH_banner_GIF_2022-03-28_14_46_14) (1)" src="https://github.com/user-attachments/assets/6e475c54-6918-46f5-b35f-2c3faa710096" />
+
 
 
 i like learning.
