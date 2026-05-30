@@ -8,7 +8,7 @@ i like learning.
 
 ### connect
 [![Email](https://img.shields.io/badge/email-banyulangitadyaraka%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:banyulangitadyaraka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-profile-000000?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/linkedin-profile-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyaraka/)
 
 ### currently learning
 
