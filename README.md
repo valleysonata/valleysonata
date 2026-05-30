@@ -1,4 +1,4 @@
-<img width="690" height="388" alt="nn92mqklhzvx_11zon" src="https://github.com/user-attachments/assets/ba6063e2-2a70-4cfd-834d-04593ce3df97" />
+<img width="1042" height="320" alt="BH_AccretionDisk_Sim_Banner_Stationary" src="https://github.com/user-attachments/assets/1eb23b8c-693f-47dd-ab6e-904961a16c14" />
 
 
 
