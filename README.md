@@ -1,7 +1,5 @@
+<img width="498" height="286" alt="eb50875a68b04b0480fa929af2c7547c" src="https://github.com/user-attachments/assets/fd8354a4-7bd0-4fe9-bd4e-757bd2ad093e" />
 
-# hi guys
-
-![terminal](https://64.media.tumblr.com/6da0d4558ef3317ed4e025d57b81747e/8b7c3064577d5057-e6/s1280x1920/12b2ca8ef552a665f1138cc05c24f1a8b86f3953.gif)
 
 ### focus
 - c / assembly
