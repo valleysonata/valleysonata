@@ -3,12 +3,21 @@
 
 # Hi, I'm Adyaraka 👋
 
-**Computer Science @NYCU**
+**Computer Science @ National Yang Ming Chiao Tung University**
+
+<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=400&size=17&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=500&lines=Building+things+with+code.;Exploring+AI+%26+Machine+Learning.;Always+learning+something+new." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=19&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=480&repeat=true&showCursor=false&lines=Building+things+with+code.;Exploring+AI+%26+Machine+Learning.;Always+learning+something+new." alt="Typing animation" />
+<a href="https://adyaraka.me">
+  <img src="https://img.shields.io/badge/Website-171717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/valleysonata">
+  <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
+
+<sub>Building assistive ML systems, lightweight AI agents, and web tools.</sub>
 
 </div>
