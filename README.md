@@ -1,12 +1,6 @@
-<img width="1042" height="320" alt="BH_AccretionDisk_Sim_Banner_Stationary" src="https://github.com/user-attachments/assets/1eb23b8c-693f-47dd-ab6e-904961a16c14" />
-
-
-
-
-
 # Adyaraka Banyu Langit
+https://adyaraka.me/
 ---
-
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:banyulangitadyaraka@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyaraka/)
 [![Website](https://img.shields.io/badge/website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://adyaraka.me/)
