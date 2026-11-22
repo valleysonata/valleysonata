@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi, I'm Adyaraka 👋
@@ -6,31 +7,8 @@
 
 <br/>
 
-Exploring AI & Machine Learning.
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://adyaraka.me">
-        <img src="https://img.shields.io/badge/Website-242424?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/adyaraka/">
-        <img src="https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:adyaraka.cs15@nycu.edu.tw">
-        <img src="https://img.shields.io/badge/Email-242424?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=19&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=480&repeat=true&showCursor=false&lines=Building+things+with+code.;Exploring+AI+%26+Machine+Learning.;Always+learning+something+new." alt="Typing animation" />
 
 <br/>
 
-```text
-──────────────  adyaraka.me  ──────────────
+</div>
