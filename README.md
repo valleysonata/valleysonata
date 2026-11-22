@@ -9,7 +9,7 @@ i like learning.
 
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:banyulangitadyaraka@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyaraka/)
-[![Website](https://img.shields.io/badge/website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://valleysonata.github.io/portofolio/)
+[![Website](https://img.shields.io/badge/website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://adyaraka.me/)
 
 ### currently learning
 
