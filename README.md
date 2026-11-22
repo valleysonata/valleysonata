@@ -4,7 +4,7 @@
 
 
 
-i like learning.
+### Hi, I'm Raka 👋
 ---
 
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:banyulangitadyaraka@gmail.com)
