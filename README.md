@@ -3,7 +3,7 @@
 
 # Hi, I'm Adyaraka 👋
 
-**Computer Science @ National Yang Ming Chiao Tung University**
+**Computer Science @NYCU**
 
 <br/>
 
