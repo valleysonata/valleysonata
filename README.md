@@ -1,1 +1,1 @@
-<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=400&size=17&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=500&lines=Building+things+with+code.;Exploring+AI+%26+Machine+Learning.;Always+learning+something+new." alt="Typing SVG" />
+
