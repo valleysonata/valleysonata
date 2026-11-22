@@ -1,16 +1,23 @@
-# Adyaraka Banyu Langit
-https://adyaraka.me/
----
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:banyulangitadyaraka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyaraka/)
-[![Website](https://img.shields.io/badge/website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://adyaraka.me/)
 
-### currently learning
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+# Hi, I'm Adyaraka 👋
 
----
+**Computer Science @ National Yang Ming Chiao Tung University**
+
+<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=400&size=17&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=500&lines=Building+things+with+code.;Exploring+AI+%26+Machine+Learning.;Always+learning+something+new." alt="Typing SVG" />
+
+<br/>
+
+<a href="https://adyaraka.me">
+  <img src="https://img.shields.io/badge/Website-171717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/valleysonata">
+  <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Building assistive ML systems, lightweight AI agents, and web tools.</sub>
+
+</div>
