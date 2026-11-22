@@ -18,6 +18,4 @@
 
 <br/><br/>
 
-<sub>Building assistive ML systems, lightweight AI agents, and web tools.</sub>
-
 </div>
